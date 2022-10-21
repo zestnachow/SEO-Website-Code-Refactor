@@ -8,9 +8,13 @@
 
 /* Element selectors, in order of appearance in the HTML file */
 
+
+/* Body element selector */
 body {
     background-color: #d9dcd6;
 }
+
+/* Header element selectors */
 
 header {
     padding: 20px;
@@ -46,6 +50,8 @@ a {
     text-decoration: none;
 }
 
+/* Content element selectors */
+
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -55,10 +61,14 @@ p {
     font-size: 16px;
 }
 
+/* Benefits element selector */
+
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* Footer element selectors */
 
 footer {
     padding: 30px;
@@ -71,9 +81,16 @@ h4 {
     font-size: 20px;
 }
 
+/* Class selectors, in order of their appearance in the HTML file */
+
+
+/* Header class selector */
+
 .seo {
     color: #d9dcd6;
 }
+
+/* Div class selector */
 
 .hero {
     height: 800px;
@@ -83,6 +100,8 @@ h4 {
     background-size: cover;
     background-position: center;
 }
+
+/* Content class selectors */
 
 .content {
     width: 75%;
@@ -113,6 +132,7 @@ h4 {
     margin-left: 25px;
 }
 
+/* Benefits class selectors */
 
 .benefits {
     margin-right: 20px;
